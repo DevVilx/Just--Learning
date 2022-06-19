@@ -1,0 +1,6 @@
+Another Bookmarklet
+Customize and add any website to it! 
+Will be unblocked if at school too
+The screen will pop upper left corner
+
+javascript:((function()%7Bvar a,b,c;c="",b=document.createElement("iframe"),b.setAttribute("src",c),b.setAttribute("id","rusic-modal"),b.setAttribute("style","position: fixed; z-index: 999999; width: 400px; height: 400px; right: 1000px; top: 10px; border: 5px solid #8834af; overflow: hidden; background-color: #fff;"),a=document.getElementsByTagName("body")%5B0%5D,a.appendChild(b)%7D)).call(this)
